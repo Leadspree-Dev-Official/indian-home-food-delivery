@@ -1,0 +1,6 @@
+{
+  "name": "Indian Home Food Delivery",
+  "description": "Authentic, regional Indian home-cooked meals and weekly tiffin subscriptions, delivered fresh from local home kitchens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
