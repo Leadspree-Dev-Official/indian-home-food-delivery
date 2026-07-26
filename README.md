@@ -1,5 +1,7 @@
 # GharBhojan - Indian Home Food Delivery
 
+🔗 **Live Demo:** [https://leadspree-dev-official.github.io/indian-home-food-delivery/](https://leadspree-dev-official.github.io/indian-home-food-delivery/)
+
 A modern web application built with React, Vite, and Tailwind CSS.
 
 ## Getting Started
